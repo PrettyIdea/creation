@@ -1,0 +1,49 @@
+
+
+
+#login_dialog {
+	width: 350px;
+	display: none;
+	background-color:#C3E3E0;
+}
+
+
+
+/**鍘绘帀瓒呴摼鎺ヤ笅鍒掔嚎*/
+.headerWidget a {
+    text-decoration: none;
+}
+/**鍒嗛殧绗�**/
+.split{
+	height: 100px;
+	width: 1px;
+	border-left: 2px gray solid;
+	margin-left: 5px;
+	margin-right: 2px;
+}
+
+
+
+/**璀﹀憡鏂囧瓧绾㈣壊**/
+.error {
+	color: red;
+}
+#tree {
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+#pageation {
+    border-top: 2px solid gray;
+    clear: both;
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+#registerbox{
+	height:400px;
+background-color:rgb(138,217,122);
+}
+/* CSS Document */
